@@ -1,0 +1,83 @@
+name: Mineceit
+main: mineceit\MineceitCore
+version: 1.0.0
+api: "3.0.0"
+author: jkorn
+description: "The core for the server Mineceit."
+website: "https://github.com/jkorn2324"
+depend:
+  - "FormAPI"
+  - "BigBrother"
+
+permissions:
+  mineceit.permissions.listkits:
+    description: 'Permission to view all the kits.'
+    default: op
+  mineceit.permissions.place-break:
+    description: 'Permission to give permissions to place and break.'
+    default: op
+  mineceit.permission.toggle-ranks:
+    description: 'Permission to create/delete ranks.'
+    default: op
+  mineceit.permission.freeze:
+    description: 'Permission to freeze/unfreeze players.'
+    default: op
+  mineceit.permission.toggle-arenas:
+    description: 'Permission to create/delete arenas.'
+    default: op
+  mineceit.permission.fly:
+    description: 'Permission to use the /fly command.'
+    default: op
+  mineceit.permission.duel:
+    description: 'Permission to use /duel command.'
+    default: true
+  mineceit.permission.hub:
+    description: 'Permission to use /hub command.'
+    default: true
+  mineceit.permission.stats:
+    description: 'Permission to use /stats command.'
+    default: true
+  mineceit.permission.listranks:
+    description: 'Permission to use /listranks command.'
+    default: true
+  mineceit.permission.spec:
+    description: 'Permission to use /spec command.'
+    default: true
+  mineceit.permission.leaderboard:
+    description: 'Permission to use /setLeaderboardHologram'
+    default: op
+  mineceit.permission.heal:
+    description: 'Permission to use the /heal command.'
+    default: op
+  mineceit.permission.tag:
+    description: 'Permission to enable/disable tag.'
+    default: op
+  mineceit.permission.pinfo:
+    description: 'Permission to see player information.'
+    default: op
+  mineceit.permission.verify:
+    description: "Permission to verify the player's discord information."
+    default: true
+  mineceit.permission.link:
+    description: "Permission to link your server to the discord."
+    default: op
+  mineceit.permission.loadyaml:
+    description: "Permission to load all yaml data onto Mineceit."
+    default: op
+  mineceit.permission.mute:
+    description: "Permission to mute/unmute players."
+    default: op
+  mineceit.permission.reset:
+    description: "Permission to reset bans."
+    default: op
+  mineceit.permission.eventarena:
+    description: "Permission to create, delete, and edit event arenas."
+    default: op
+  mineceit.permission.setarenaspawn:
+    description: "Permission to update arena's spawn."
+    default: op
+
+
+
+
+

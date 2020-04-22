@@ -1,0 +1,33 @@
+# The data for mysql
+mysql:
+
+  # The username of the mysql database.
+  username: "zDqni-16880"
+
+  # The database name.
+  database: "zDqni-16880"
+
+  # The database password.
+  password: "ttxNqny4kkM2xQ69FzKsmmvYt"
+
+  # The database ip address.
+  ip: "148.251.128.59"
+
+  # The database port.
+  port: 3306
+
+# The webhooks corresponding to each server.
+webhooks:
+
+  # The log webhook
+  logs: ""
+
+  # The reports webhook
+  reports: ""
+
+  # The status webhook
+  status: ""
+
+
+# The server name associated (used to link discord). -> defaults to Mineceit Test
+server-type: ""

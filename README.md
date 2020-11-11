@@ -9,6 +9,8 @@ This is the practice core that was used by Mineceit, a Minecraft Bedrock Edition
 	- Message Translation for 20+ Languages
 	- FFA Practice Arenas
 	- Custom Player Settings
+	- Report System (Bug, Hackers and Staff Reporting)
+		- Menu to sort through the list of reports.
 
 # Credits
 

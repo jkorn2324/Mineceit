@@ -19,9 +19,10 @@ This is the practice core that was used by Mineceit, a Minecraft Bedrock Edition
 - **KingRainbow442** (Network Manager/Gameplay Developer)
 - **DwifulLove** (Gameplay Developer)
 
-**Owners**:
+**Management**:
 - **Sixdial** (Lead Owner)
 - **Rogoto** (Co-Owner)
 - **zDqniL** (Co-Owner)
+- **Rocky** (Co-Owner)
 
 **Thanks to all the managers and staff members that volunteered to make the server what it was back then.**
